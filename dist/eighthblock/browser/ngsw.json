@@ -1,0 +1,137 @@
+{
+  "configVersion": 1,
+  "timestamp": 1703100696288,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/chunk-7FJVHJZR.js",
+        "/chunk-BUV3OH2W.js",
+        "/chunk-CWTPBX7D.js",
+        "/chunk-HKMDRJZX.js",
+        "/chunk-NZC6QJKN.js",
+        "/chunk-SNXX37SF.js",
+        "/chunk-VCNNUDNH.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-5GVXZFDT.js",
+        "/manifest.webmanifest",
+        "/polyfills-CG2UM2YX.js",
+        "/styles-ATCQ4IEU.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/images/app-marquee-1.png",
+        "/assets/images/app-marquee-10.png",
+        "/assets/images/app-marquee-2.png",
+        "/assets/images/app-marquee-3.png",
+        "/assets/images/app-marquee-4.png",
+        "/assets/images/app-marquee-5.png",
+        "/assets/images/app-marquee-6.png",
+        "/assets/images/app-marquee-7.png",
+        "/assets/images/app-marquee-8.png",
+        "/assets/images/app-marquee-9.png",
+        "/assets/images/bmo.png",
+        "/assets/images/fnol.png",
+        "/assets/images/gore.png",
+        "/assets/images/icons/icon-128x128.png",
+        "/assets/images/icons/icon-144x144.png",
+        "/assets/images/icons/icon-152x152.png",
+        "/assets/images/icons/icon-192x192.png",
+        "/assets/images/icons/icon-384x384.png",
+        "/assets/images/icons/icon-512x512.png",
+        "/assets/images/icons/icon-72x72.png",
+        "/assets/images/icons/icon-96x96.png",
+        "/assets/images/icons/icon-apple-touch-120x120.png",
+        "/assets/images/icons/icon-apple-touch-152x152.png",
+        "/assets/images/icons/icon-apple-touch-167x167.png",
+        "/assets/images/icons/icon-apple-touch-180x180.png",
+        "/assets/images/liberous.png",
+        "/assets/images/logo.svg",
+        "/assets/images/tenforks.png",
+        "/assets/images/tenforks1.png",
+        "/assets/styles/colours.css"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/images/app-marquee-1.png": "02600da0043d14383d69850ad63753f516681093",
+    "/assets/images/app-marquee-10.png": "f153201cd9866eb441fe8dfba08584d87e51efc8",
+    "/assets/images/app-marquee-2.png": "7758b3d1c632f5adb6a140e9f5ec109dfd842073",
+    "/assets/images/app-marquee-3.png": "809695e3f4cec1375273e2823fc2c645ca8b2c4b",
+    "/assets/images/app-marquee-4.png": "d0e5fdc53d7902ace2692fa51640aa07b97ef1fe",
+    "/assets/images/app-marquee-5.png": "a81540215b96f3b243a783640ab074fabe8d5938",
+    "/assets/images/app-marquee-6.png": "57208bf5309e545a3b7f42daea91c99f52d900e7",
+    "/assets/images/app-marquee-7.png": "defc8afb48f32e7e7e18f7f035a282db50ad69f0",
+    "/assets/images/app-marquee-8.png": "467ffb6989f52b10f207860d8ee17c0ec1355c65",
+    "/assets/images/app-marquee-9.png": "9b9d2a95eaa1757e7615416aee4b165a61b9f20a",
+    "/assets/images/bmo.png": "a81540215b96f3b243a783640ab074fabe8d5938",
+    "/assets/images/fnol.png": "d0e5fdc53d7902ace2692fa51640aa07b97ef1fe",
+    "/assets/images/gore.png": "57208bf5309e545a3b7f42daea91c99f52d900e7",
+    "/assets/images/icons/icon-128x128.png": "1aea025fee96933f558994f1bcf420b6d69bf959",
+    "/assets/images/icons/icon-144x144.png": "8f6c7d59bb2ddcbd78f473c09a7346a41ff66abe",
+    "/assets/images/icons/icon-152x152.png": "db063b0a89d0e14f385f965973816e91fbb0ec76",
+    "/assets/images/icons/icon-192x192.png": "e698bb81f9b4f7e4d429dcf2141705a8d575aef7",
+    "/assets/images/icons/icon-384x384.png": "6d7b003455c03efe029c8ef6b8bbf870e307da1a",
+    "/assets/images/icons/icon-512x512.png": "c2f008a230a4b488a71e6b13d4cb4265b8842537",
+    "/assets/images/icons/icon-72x72.png": "14bc515670c848e283027bd1aecf55eca2d6dd66",
+    "/assets/images/icons/icon-96x96.png": "e6787bcd8f028db16ae1e5b170c2eda8acdc4271",
+    "/assets/images/icons/icon-apple-touch-120x120.png": "537262124f4da5cfe27b2f10233992f08bc71cb4",
+    "/assets/images/icons/icon-apple-touch-152x152.png": "db063b0a89d0e14f385f965973816e91fbb0ec76",
+    "/assets/images/icons/icon-apple-touch-167x167.png": "17bc053cf86ea45035cc64eee78e4b10a6097f40",
+    "/assets/images/icons/icon-apple-touch-180x180.png": "dd9e028335509c3bcd2b2082be02b0fab3450a9b",
+    "/assets/images/liberous.png": "02600da0043d14383d69850ad63753f516681093",
+    "/assets/images/logo.svg": "4ae513b57cc5934ed4d365aef54af420be13808f",
+    "/assets/images/tenforks.png": "7758b3d1c632f5adb6a140e9f5ec109dfd842073",
+    "/assets/images/tenforks1.png": "1e0b93a69ea859c029b86826406d32bb18ee9f66",
+    "/assets/styles/colours.css": "1d9f4ad167d0ac95b04dd2dc51068dc725f8148a",
+    "/chunk-7FJVHJZR.js": "2dd34d1fe2bb068ed3ed14f926a75ee54604be28",
+    "/chunk-BUV3OH2W.js": "c7366deff4145793c80866250e25ace386c5714d",
+    "/chunk-CWTPBX7D.js": "c40057a332d0341d595cc1d005fc2ab4f2573957",
+    "/chunk-HKMDRJZX.js": "00dc41d6a837b9be597173fc374596c55eb37cdb",
+    "/chunk-NZC6QJKN.js": "ade0d1bff3b1bfda6789784fbb0563bafb4e08af",
+    "/chunk-SNXX37SF.js": "2274fd4b6286aa7156cb890b0b10c80692abefee",
+    "/chunk-VCNNUDNH.js": "8ae353c896256ebf464459d187345659e5d06b26",
+    "/favicon.ico": "2a231c098b9c379c3f0e5afd16a82e79ff257b9b",
+    "/index.html": "9737b29f54e58f9100c8025c2c78b3b09f40a1fb",
+    "/main-5GVXZFDT.js": "2165be6829bd0dd6b0890c4f1d2c653c2aa06e12",
+    "/manifest.webmanifest": "53cf0ec898d87b705cee0568268e6dc7058a6ec4",
+    "/polyfills-CG2UM2YX.js": "8758dc9fb93959b8a6c6ee04793c65df80b82558",
+    "/styles-ATCQ4IEU.css": "1f23327a524155a710ac10778616bbedee01d9f5"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

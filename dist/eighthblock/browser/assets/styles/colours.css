@@ -1,0 +1,7 @@
+:root, ::backdrop {
+  --clr-secondary:               #E10F73;;
+  --clr-secondary-lighter:       #f61481;
+  --clr-secondary-light:         #ff1285;
+  --clr-secondary-dark:          #b00c5b;
+  --clr-secondary-lightest:      #fff;
+}

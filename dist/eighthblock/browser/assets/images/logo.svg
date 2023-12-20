@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1400px" height="1641px" viewBox="0 0 1400 1641" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Untitled_Artwork-2" transform="translate(-620, -180)" stroke="#000000" stroke-width="40">
+            <g id="logo" transform="translate(640, 200)">
+                <g id="top">
+                    <path d="M679,400 C679,400 791.202582,333.333333 1015.60775,200 L1359,400 L1019,600 C792.333333,466.666667 679,400 679,400 Z" id="Path" fill="#FFFFFF"></path>
+                    <path d="M338,200 C338,200 450.202582,133.333333 674.607747,0 L1018,200 L678,400 C451.333333,266.666667 338,200 338,200 Z" id="Path" fill="#FFFFFF"></path>
+                    <path d="M0,400 C0,400 112.202582,333.333333 336.607747,200 L680,400 L340,600 C113.333333,466.666667 0,400 0,400 Z" id="Path" fill="#FFFFFF"></path>
+                    <path d="M340,600 C340,600 452.202582,533.333333 676.607747,400 L1020,600 L680,800 C453.333333,666.666667 340,600 340,600 Z" id="Path" fill="#E10F73"></path>
+                </g>
+                <g id="left" transform="translate(0, 400)">
+                    <polygon id="Path-2" fill="#FFFFFF" points="0 400 0 800 340 1000 340 600"></polygon>
+                    <polygon id="Path-2" fill="#FFFFFF" points="0 0 0 400 340 600 340 200"></polygon>
+                    <polygon id="Path-2" fill="#FFFFFF" points="340 600 340 1000 680 1200 680 800"></polygon>
+                    <polygon id="Path-2" fill="#E10F73" points="340 200 340 600 680 800 680 400"></polygon>
+                </g>
+                <g id="right" transform="translate(1020, 1000) scale(-1, 1) translate(-1020, -1000)translate(680, 400)">
+                    <polygon id="Path-2" fill="#FFFFFF" points="0 400 0 800 340 1000 340 600"></polygon>
+                    <polygon id="Path-2" fill="#FFFFFF" points="0 0 0 400 340 600 340 200"></polygon>
+                    <polygon id="Path-2" fill="#FFFFFF" points="340 600 340 1000 680 1200 680 800"></polygon>
+                    <polygon id="Path-2" fill="#E10F73" points="340 200 340 600 680 800 680 400"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
